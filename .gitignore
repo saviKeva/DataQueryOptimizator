@@ -1,0 +1,15 @@
+bin/
+target/
+build/
+out/
+*.class
+
+*.zip
+*.tar.gz
+*.7z
+
+.metadata/
+.recommenders/
+.DS_Store
+Thumbs.db
+*.log
